@@ -1,0 +1,17 @@
+export const loveNotes: string[] = [
+  'Babeeee, you matter more than you realize. 💜',
+  "You don't have to be strong every single day. It's okay to rest. 🫂",
+  'I hope you never forget how special you are to the people who truly know you.',
+  "If today feels heavy, take one tiny step at a time. I'm cheering for you. 🌙",
+  'You are allowed to grow, change, make mistakes, and begin again.',
+  'Your feelings deserve care, not judgment.',
+  'Remember our pagalpan whenever life becomes too serious. 😂💋',
+  'You deserve happiness that feels peaceful, safe, and real.',
+  'Thank you for being a part of my story, Cutiepiee. 📖',
+  'You can have a difficult day without having a difficult life.',
+  'Our little memories will always make me smile. 🥹💜',
+  "You don't need to earn your worth. You already matter.",
+  'Sending you the biggest virtual hug and unlimited imaginary kissies. 🫂💋',
+  'If you ever forget how much good exists in your life, pause and give yourself a little kindness.',
+  "No matter how much life changes, I'll always be grateful that our paths crossed. 🌙✨",
+]
